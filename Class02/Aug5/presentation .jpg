@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	 
+     <head>
+    	 <title> What who he was</title>
+         <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+    	 <link href="https://fonts.googleapis.com/css?family=Dosis|Indie+Flower" rel="stylesheet">
+     </head>
+     
+     <body>
+  <div class="wrapper">
+     <h3>
+	 <a href="index.html"> Here who he is </a>
+     <a href="artwork.html"> His working now </a>
+	</h3>
+	
+     <h1> His experience </h1>
+     <br />
+       
+        <div class="div2"> 
+        <phead> Education </phead>
+        <p> New York University Tisch School of the Arts, MPS New Media & Interactive Design 2008-2010.</p>
+        <p> Columbia University School of Continuing Education, Computer Music 2006-2007.</p>
+        <p> Columbia University School of Engineering & Applied Science, BS Computer Science 1999-2003.</p>
+        </div>
+        
+        <div class="div2">
+        <phead> Selected Exhibitions </phead>
+        <p>Postmasters, New York, NY, Play Station</p>
+        <p>Portland Art Museum, Portland, OR, QR/ART </p>
+        <p>Internet-Cafe Bordeaux, Berlin, Germany, Speed Show: Becoming, Not Being </p>
+        <p>Eyebeam, New York, NY, Street Show: The Things Between Us</p>
+        <p>Little Theater, Woodstock, VT, Woodstock Digital Media Festival</p>
+        <p>PLANETART, Amsterdam, Netherlands, Filtering Failure</p>
+        </div>
+        
+           <div class="div2">
+        <phead> Publications and Media Coverage </phead>
+        <p>Holmes, Kevin. "Embark on an Interactive Net Art Adventure ..." thecreatorsproject.com 2011.</p>
+        <p>Reformat the Planet 1.5. Dir. Paul Owens. 2 Player Productions, 2009.</p>
+        <p>Reformat the Planet. Dir. Paul Owens. 2 Player Productions, 2008.</p>
+        <p>"Inside the Blip Festival." By Zach Fannin. ABC News. 5 Dec. 2007.</p>
+        <p> 8 Bit: A Documentary about Art and Videogames. Dir. Marcin Ramocki. MutationEngine, 2006</p>
+        <p>Crumsho, Michael. "Mario Speedwagon." The Village Voice 22 Nov. 2006.</p>
+        </div>
+        
+ 	 <br />
+ 	 
+		
+     </div>
+
+  </body>
+<html> 
+    
+     
+     
+     
+  

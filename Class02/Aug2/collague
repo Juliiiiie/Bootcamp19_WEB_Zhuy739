@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>Here's my trip</head>
+	<body>
+		<div class="container">
+			<div class="title">
+				<span class="lineTitle"></span>
+			</div>
+		<ul class="always on my road">
+			<a href="https://www.instagram.com/yiiiiiiiijie/?hl=en"></a>
+				<li class="fl li1">
+					<div class="textBox">
+						<p class="font2"> New York</p>
+						<span class="font 3">纽约</span>
+					</div>
+					<img class="way to newYork" src="/img/newYork.png">
+				</li>
+			</a>
+			<a href=""></a>
+
+
+
+</html>>
