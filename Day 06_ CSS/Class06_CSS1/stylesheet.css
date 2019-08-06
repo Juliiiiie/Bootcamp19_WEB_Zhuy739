@@ -1,0 +1,35 @@
+h1{
+	color:#FF007F；
+	font-size: 50pt;
+	font-weight: 12pt;
+}
+
+.text1{
+	color:blue;
+	font-weight:bold;
+}
+
+#text1{
+	font-size:20px;
+}
+h1{color:red;}
+p.one{
+
+
+}
+div.one{
+
+
+}
+.three{
+	background-image: url('images/tree.jpg')
+	background-position: top;
+}
+.fixed{
+	position: fixed;
+	top:0;
+	padding:0;
+	background-color: 255;
+
+
+}
