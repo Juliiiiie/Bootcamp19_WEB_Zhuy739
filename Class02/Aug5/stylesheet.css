@@ -19,29 +19,36 @@ h1,h2,h3{
    }
 h1{
 font-size: 16pt;
+margin:5px;
 }
 h2{
 font-size: 9pt;
+margin:5px;
 }
 p{
   color:#586B8F;
   font-family: 'Indie Flower', cursive;
+  margin:15px;
   }
 p1{
   color:#37474F ;
   font-family: 'Indie Flower', cursive;
-  font-size: 12pt;ss
+  font-size: 12pt;
+  margin:15px;
+  
   }
 p3{
   color:#3F6699;
   font-family: 'Dosis', cursive;
   font-size:11pt;
   line-height:2pt;
+  margin:15px;
   }
 phead{
   color:#37474F ;
   font-family: 'Indie Flower', cursive;
   font-size:14pt;
+  margin:10px;
 }
 div{
 	background-color:white;
@@ -72,6 +79,7 @@ div{
 	}
 article {
     text-align: left;
+    margin:15px;
 }
 
 .div-header{
@@ -102,6 +110,7 @@ div1{
          font-family: futuraLight;
          font-size:18px;
          text-aligh:center;
+         
           }
 .italic-p{
 		font-style: italic;

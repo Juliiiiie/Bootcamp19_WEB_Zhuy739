@@ -1,0 +1,86 @@
+body{
+	text-align: center;
+}
+
+
+p{
+	color:blue;
+	font-weight: bold;
+}
+
+img{
+	height: 100%;
+	width: 100%;
+}
+
+.block{
+	width:100%;
+	height: auto;
+	border: 2px double block;
+}
+
+.section1{
+	width: 50%;
+	float: left;
+	border: 2px double border;
+}
+
+.section{
+	width: 50%;
+	float: right;
+	border: 2px double block;
+
+}
+
+/* 1 em = 16 px */
+/* MEDIA QUERIES */
+/* tablet */
+@media screen and (min-width: 500px){
+	body{
+		background-color: orange;
+
+	}
+	p{
+		font-size: 8em;
+	}
+	img{
+
+
+	}
+}
+
+@media screen and (min-width: 1050px){
+	body{
+		background-color: red;
+
+	}
+	p{
+		font-size: 6em;
+	}
+	img{
+
+
+	}
+}
+
+
+
+
+
+
+/* FOR MOBILE DEVICES*/
+/* Source for different devices http://cssmediaqueries.com/target/ */
+@media screen and (max-device-width: 500px) and (orientation: portrait){
+	body{
+		background-color: yellow;
+	}
+	p{
+		font-size: 4em;
+	}
+	img{
+		height:50%;
+		width:50%;
+	}
+	
+}
+
